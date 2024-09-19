@@ -1,0 +1,42 @@
+[
+    {
+        "type": "dropdown",
+        "question": "email addressemail address",
+        "answer": "sumit.nangia37@gmail.com"
+    },
+    {
+        "type": "dropdown",
+        "question": "phone country codephone country code",
+        "answer": "Federated States of Micronesia (+691)"
+    },
+    {
+        "type": "textbox",
+        "question": "mobile phone number",
+        "answer": "The mobile phone number for Sumit Nangia is +91 8007774532."
+    },
+    {
+        "type": "dropdown",
+        "question": "email addressemail address",
+        "answer": "sumit.nangia37@gmail.com"
+    },
+    {
+        "type": "dropdown",
+        "question": "phone country codephone country code",
+        "answer": "French Southern Territories (+0)"
+    },
+    {
+        "type": "textbox",
+        "question": "first name",
+        "answer": "Sumit."
+    },
+    {
+        "type": "textbox",
+        "question": "last name",
+        "answer": "Nangia"
+    },
+    {
+        "type": "textbox",
+        "question": "first name",
+        "answer": "Sumit."
+    }
+]
