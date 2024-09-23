@@ -1,0 +1,110 @@
+personal_information:
+  name: "Sumit"
+  surname: "Nangia"
+  date_of_birth: "15/03/1991"
+  country: "India"
+  city: "Gurgaon"
+  address: "58, Fresco Apartments, Sector-50"
+  phone_prefix: "+91"
+  phone: "8007774532"
+  email: "sumit.nangia1234@gmail.com"
+  github: "https://github.com/zeus1503"
+  linkedin: "https://www.linkedin.com/in/sumitnangia37"
+
+education_details:
+  - degree: "B.Tech"
+    university: "Jaypee Institute of Information Technology"
+    gpa: "74"
+    graduation_year: "2013"
+    field_of_study: "Computer Science"
+    education_level: "Bachelor Degree"
+    institution : "Jaypee Institute of Information Technology"
+    final_evaluation_grade: "74"
+    start_date: "2009"
+    year_of_completion: "2013"
+    exam:
+
+
+
+experience_details:
+  - position: "Lead Quality Engineer"
+    company: "ShipRocket"
+    employment_period: "08/2022 - Present"
+    location: "Gurgaon"
+    industry: "e-Commerce"
+    key_responsibilities:
+      - responsibility_1: "Spearheaded QA hiring initiatives, personally conducting 30+ interviews (Round 1 and Round 2) and successfully onboarding 5 Quality Engineers to support rapid company growth."
+      - responsibility_2: "Mentored and led a dynamic team of 7 QA professionals, including QAs and Senior QAs, spread across 4 teams, fostering a culture of continuous improvement and technical excellence"
+      - responsibility_3: "Implemented robust QA processes from the ground up, tailored for a fast-paced startup environment, resulting in a 40% reduction in post-release issues"
+      - responsibility_4: "Led the efforts towards implementation of the company's first API automation test framework using TestNG, Java, and Rest Assured for Test execution efficiency improvement."
+
+    skills_acquired:
+      - "Team Management"
+      - "Selenium"
+      - "Rest Assured"
+      - "Test Automation"
+
+  - position: "Senior Test Analyst"
+    company: "Fidelity International"
+    employment_period: "11/2019 - 07/2022"
+    location: "Gurgaon"
+    industry: "Financial Services"
+    key_responsibilities:
+      - responsibility_1: "Working with BDD Framework - Cucumber with Selenium (Java) for writing Feature files (Gherkin) and Step Definitions with Rest Assured for services related to Employee and Employer’s pension contribution, Switches between Funds, payment transfer across Euro-Zone."
+      - responsibility_2: "Involved in Test Planning Activities and created execution plan for 3 Model Office cycles."
+      - responsibility_3: "Led test execution activities for cloud native solutions built using AWS services: S3, EC2, Cognito, Lambda, ElasticSearch, Redis, SNS and ALB."
+      - responsibility_4: "Participated in discussions with Business Lead and Solution Architect for understanding requirements, architecture and regulatory needs."
+
+    skills_acquired:
+      - "BDD"
+      - "Selenium"
+      - "Test Planning"
+      - "Test Automation"
+projects:
+
+achievements:
+
+
+certifications:
+  - "AWS Cloud Practitioner"
+  - "Design thinking - Foundations by Ideo"
+  - "Scaled Agile Agilist"
+
+languages:
+  - language: "English"
+    proficiency: "Native"
+  - language: "Hindi"
+    proficiency: "Native"
+
+interests:
+
+availability:
+  notice_period: "immediately"
+
+salary_expectations:
+  salary_range_usd: "30000"
+
+self_identification:
+  gender: "Male"
+  pronouns: "He"
+  veteran: "No"
+  disability: "No"
+  ethnicity: "Asian"
+
+legal_authorization:
+  eu_work_authorization: "Yes"
+  us_work_authorization: "Yes"
+  requires_us_visa: "Yes"
+  requires_us_sponsorship: "Yes"
+  requires_eu_visa: "Yes"
+  legally_allowed_to_work_in_eu: "Yes"
+  legally_allowed_to_work_in_us: "Yes"
+  requires_eu_sponsorship: "Yes"
+
+work_preferences:
+  remote_work: "Yes"
+  in_person_work: "Yes"
+  open_to_relocation: "Yes"
+  willing_to_complete_assessments: "Yes"
+  willing_to_undergo_drug_tests: "Yes"
+  willing_to_undergo_background_checks: "Yes"
